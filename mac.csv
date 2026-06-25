@@ -4,3 +4,7 @@ id;mac_address;description;comments
 3;DE:AD:BE:EF:00:00;Third MAC;
 4;AD:DE:EF:BE:11:11;Fourth MAC;this is the comment
 5;AA:BB:EF:BE:11:11;Fifth MAC;NC
+6;A1:BB:EF:BE:11:11;ID 6;NC
+7;A2:BB:EF:BE:11:11;ID 7;NC
+8;A3:BB:EF:BE:11:11;ID 8;NC
+
