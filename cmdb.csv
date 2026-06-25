@@ -1,0 +1,4 @@
+name;type;id;comment
+server1;server;1;This is the first server
+server2;server;2;Second one
+vm1;vm;3;This is a VM
