@@ -1,0 +1,4 @@
+mac_address;description;comments
+00:11:22:33:44:55;First MAC of server X;Here goes the comment
+AA:BB:CC:DE:AD:BE;Second MAC of first server;Another one
+DE:AD:BE:EF:00:00;Third MAC;
