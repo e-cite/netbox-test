@@ -1,10 +1,10 @@
-id;mac_address;description;comments
-1;00:11:22:33:44:55;First MAC of server X;Here goes the comment
-2;AA:BB:CC:DE:AD:BE;Second MAC of first server;Another one
-3;DE:AD:BE:EF:00:00;Third MAC;
-4;AD:DE:EF:BE:11:11;Fourth MAC;this is the comment
-5;AA:BB:EF:BE:11:11;Fifth MAC;NC
-6;A1:BB:EF:BE:11:11;ID 6;NC
-7;A2:BB:EF:BE:11:11;ID 7;NC
-8;A3:BB:EF:BE:11:11;ID 8;NC
+mac_address;description;comments
+00:11:22:33:44:55;First MAC of server X;Here goes the comment
+AA:BB:CC:DE:AD:BE;Second MAC of first server;Another one
+DE:AD:BE:EF:00:00;Third MAC;
+AD:DE:EF:BE:11:11;Fourth MAC;this is the comment
+AA:BB:EF:BE:11:11;Fifth MAC;NC
+A1:BB:EF:BE:11:11;ID 6;NC
+A2:BB:EF:BE:11:11;ID 7;NC
+A3:BB:EF:BE:11:11;ID 8;NC
 
